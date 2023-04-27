@@ -77,6 +77,11 @@ header {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   column-gap: 1.125rem;
 }
+.price {
+  color: #50ae9e;
+  margin: 0.3125rem 0;
+  display: block;
+}
 
 .bag img {
   transition: transform 0.5s ease;
